@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
+  ROM_URL: https://qwx2o2bc.v1d.szbdyd.com:9305/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/m2192/9.2.1.0/cn/20210917102830/91c61c86/update.zip?f_ver=v1&max_age=7776000&r=PUcEBDRqaGwHE0VVRRYAAHteFR09JWkgDhcYflsFHxI0QRVbATw%2BLgRVWgoDTkBKbB1CWnZ%2Bd2wCFBgKAkVDVWwCR0V3Yn9wUVUOCVFBQwZtBV8BNzQmNwRUTVFCOkMVGiQ0KXIOClJWURMcVA%3D%3D&xyip=120.239.15.150&xyct=83&xysc=1&xy_rid=R9A~G_5n1~i64s
+  ZIP_NAME: 'Flyme.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  VERSION: '11'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
